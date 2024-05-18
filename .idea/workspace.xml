@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd39e54d-77b0-45bc-b2e1-a9190a936d6f" name="Changes" comment="Start">
+    <list default="true" id="dd39e54d-77b0-45bc-b2e1-a9190a936d6f" name="Changes" comment="Done?">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Images/shapes.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Report.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716066308115</updated>
       <workItem from="1716066321810" duration="1602000" />
-      <workItem from="1716069590113" duration="2183000" />
+      <workItem from="1716069590113" duration="2628000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <option name="closed" value="true" />
@@ -102,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716069707187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done?">
+      <option name="closed" value="true" />
+      <created>1716072247584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716072247584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="Done?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done?" />
   </component>
 </project>
